@@ -4,6 +4,7 @@ Set a countdown for your reading session and stay focused until the ring complet
 
 iPhone & iPad. Free. No ads, no in-app purchases, no accounts, no network.
 
+
 ## Support
 
 Email: **lexliu@qq.com**
